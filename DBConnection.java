@@ -7,9 +7,9 @@ public class DBConnection {
 
 	
 
-	    private static final String URL = "jdbc:mysql://localhost:3306/finance_tracker";
-	    private static final String USER = "root";
-	    private static final String PASSWORD = "Java#cake2156josh";
+	    private static final String URL = "";
+	    private static final String USER = "";
+	    private static final String PASSWORD = "";
 	    
 	    public Connection getConnection() {
 	        try {	        	
